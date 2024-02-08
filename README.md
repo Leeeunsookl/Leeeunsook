@@ -54,5 +54,5 @@ I want to be **backend developer or cloud engineer**
 ###  :mailbox: Contact
 
 <a href="mailto:chj2171@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minseo-Ming)](https://github.com/Minseo-Ming/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Eunsook-Lee)](https://github.com/E/github-contribution-stats/)
 -->

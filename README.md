@@ -42,6 +42,7 @@ I want to be **backend developer or cloud engineer**
 ###  :hammer:Tools
 
 <p>
+<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logoGitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
@@ -52,5 +53,3 @@ I want to be **backend developer or cloud engineer**
 
 
 ###  :mailbox: Contact
-
-README.md

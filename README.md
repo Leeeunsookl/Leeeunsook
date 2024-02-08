@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=4FE6D0&height=300&section=header&text=minseo%20cho&fontSize=70)
 -->
-Hello i am minseo Cho!
-I’m currently learning SpringBoot, MSA, AWS, Kubernetes.
-And Studing & Reviewing DesignPattern & Network & Operationg System.
-I want to be **backend developer or cloud engineer**
+Hello 
+i am Eunsook LEE!
+I’m currently learning JAVA
+And Studing & Reviewing 
+I want to be ...
 
 
 ###  :muscle:Skills

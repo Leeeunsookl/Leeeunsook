@@ -27,6 +27,8 @@ I want to be ...
 <p>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat-square&logo=JAVA&logoColor=white" />
+
 
 </p>
 

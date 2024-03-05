@@ -28,7 +28,7 @@ I want to be ...
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=flat-square&logo=JAVA&logoColor=white" />
-<img src="https://img.shields.io/badge/MYSQL-007396?style=flat-square&logo=MYSQL&logoColor=white" />
+<img src="https://img.shields.io/badge/logo=MYSQL&logoColor=white" />
 
 </p>
 

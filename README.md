@@ -1,4 +1,4 @@
-### Hi there 👋
+## IS it you? 💬
 
 <!--
 **Eunsook-Lee/Eunsook-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=4FE6D0&height=300&section=header&text=minseo%20cho&fontSize=70)
 -->
 
-Is it you?
 
 We're waiting on inspiration
 

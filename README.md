@@ -1,4 +1,4 @@
-## IS it you? 💬
+# Is it you? 💬
 
 <!--
 **Eunsook-Lee/Eunsook-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

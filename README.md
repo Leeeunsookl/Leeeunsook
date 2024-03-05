@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=4FE6D0&height=300&section=header&text=minseo%20cho&fontSize=70)
 -->
 
-Is it you??
+Is it you?
 
 We're waiting on inspiration
 
@@ -28,6 +28,16 @@ Wanting something we can't see
 All I am I've been before
 
 And all I want is something more
+
+Is it you?
+
+I keep on asking the question
+
+And it all comes back to you
+
+Who gets to say what's right?
+
+Is it you?
 
 ###  :muscle:Skills
 <p>

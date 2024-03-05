@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=4FE6D0&height=300&section=header&text=minseo%20cho&fontSize=70)
 -->
-Hello 
-i am Eunsook LEE!
-I’m currently learning JAVA
-And Studing & Reviewing 
-I want to be ...
+
+Is it you??
 
 
 ###  :muscle:Skills
